@@ -1,1 +1,2 @@
-#使用Qt实现的MIPS模拟器
+# MIPS Simulator
+使用Qt实现的MIPS模拟器
