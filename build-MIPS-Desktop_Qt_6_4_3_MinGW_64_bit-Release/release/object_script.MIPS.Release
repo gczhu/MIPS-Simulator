@@ -1,0 +1,11 @@
+release/convertwindow.o
+release/highlight.o
+release/main.o
+release/mainwindow.o
+release/method.o
+release/textedit.o
+release/tool.o
+release/qrc_images.o
+release/moc_convertwindow.o
+release/moc_mainwindow.o
+release/moc_textedit.o

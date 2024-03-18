@@ -1,0 +1,11 @@
+debug/convertwindow.o
+debug/highlight.o
+debug/main.o
+debug/mainwindow.o
+debug/method.o
+debug/textedit.o
+debug/tool.o
+debug/qrc_images.o
+debug/moc_convertwindow.o
+debug/moc_mainwindow.o
+debug/moc_textedit.o
